@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+*.c
+*.h
+*.o
+*.so
+*.a
+bin/
+build/
+*.pcap
+*.log
