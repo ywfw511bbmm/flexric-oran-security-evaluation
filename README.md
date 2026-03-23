@@ -1,5 +1,7 @@
 # FlexRIC O-RAN Security Evaluation
 
+[Case Study](docs/thesis-case-study.md) · [Repository Scope](docs/repository-scope.md)
+
 ## 1. Project Overview
 This repository presents a scoped security evaluation of FlexRIC in the Open RAN (O-RAN) / Near-RT RIC context. The project focused on xApp-related attack surfaces in a complex distributed platform and translated the findings into concrete hardening recommendations.
 
